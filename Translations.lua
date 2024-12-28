@@ -5,6 +5,7 @@ return (function()
       "Chinese" = {},
       "Russian" = {},
       "Filipino" = {},
-      "Vietnamese" = {}
+      "Vietnamese" = {},
+      "French" = {}
     }
 end)()
