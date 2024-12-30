@@ -1,4 +1,4 @@
-return {
+{
   "English" = {},
   "Spanish" = {},
   "Chinese" = {},
