@@ -5,7 +5,7 @@
     ["Miles"] = "Miles",
     ["Event"] = "Event",
     ["Car Modifier"] = "Car Modifier",
-    ["Webhook"] = "Webhook"
+    ["Webhook"] = "Webhook",
     ["Random"] = "Random",
     ["Auto Race"] = "Auto Race",
     ["Race Types"] = "Race Types",
@@ -17,7 +17,7 @@
     ["Get In Vehicle"] = "Get In Vehicle",
     ["Vehicle Name"] = "Vehicle Name",
     ["Miles"] = "Miles",
-    ["Locations"] = "Locations"
+    ["Locations"] = "Locations",
     ["Reindeer Grabber"] = "Reindeer Grabber",
     ["Cookies"] = "Cookies",
     ["Boost Vehicle"] = "Boost Vehicle",
