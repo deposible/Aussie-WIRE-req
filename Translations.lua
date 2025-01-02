@@ -33,7 +33,12 @@
     ["Language"] = "Language",
     ["Hide UI Button"] = "Hide UI Button",
     ["Debug UI"] = "Debug UI",
-    ["Hide UI Keybind"] = "Hide UI Keybind"
+    ["Hide UI Keybind"] = "Hide UI Keybind",
+    ["Change Language"] = "Change Language",
+    ["UI Settings"] = "UI Settings",
+    ["Universal"] = "Universal",
+    ["Autofarm"] = "Autofarm",
+    ["Gameplay"] = "Gameplay",
   },
   ["Spanish"] = {},
   ["Chinese"] = {},
