@@ -119,7 +119,6 @@ return {
   ["No Hack Fail v2"] = "Không hack thất bại v2",
   ["Hygiene Start"] = "Bắt đầu vệ sinh",
   ["Fun"] = "Vui vẻ",
-  ["Hide UI keybind"] = "Ẩn phím tắt UI",
   ["Discord Webhook"] = "Discord Webhook",
   ["Claim Random Plot"] = "Nhận mảnh đất ngẫu nhiên",
   ["Mechanic"] = "Cơ khí",
@@ -154,7 +153,6 @@ return {
   ["Change Gun Name"] = "Thay tên súng",
   ["Zombies"] = "Zombie",
   ["Enhance Speed"] = "Tăng tốc độ"
-  ["Hide UI keybind"] = "Ẩn phím UI",
   ["Speed Multiplier"] = "Tăng tốc độ",
   ["Aim Fov"] = "Tầm ngắm",
   ["No Recoil"] = "Không giật",
