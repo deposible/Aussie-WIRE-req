@@ -374,5 +374,4 @@ return {
   ["Look At Zombies"] = "查看僵尸",
   ["Auto Equip Melee"] = "自动装备近战",
   ["Zombies ESP"] = "僵尸ESP",
-  ["Hide UI keybind"] = "隐藏UI快捷键",
 }
