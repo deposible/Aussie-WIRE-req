@@ -366,4 +366,13 @@ return {
   ["Miles v2"] = "英里 v2",
   ["Miles v3 [OP]"] = "英里 v3 [OP]",
   ["No Hack Fail"] = "无作弊失败",
+  ["Weapon"] = "武器",
+  ["Self"] = "自我",
+  ["Kill Aura Distance"] = "击杀光环距离",
+  ["No Fire Damage"] = "无火焰伤害",
+  ["Farm Zombies"] = "农场僵尸",
+  ["Look At Zombies"] = "查看僵尸",
+  ["Auto Equip Melee"] = "自动装备近战",
+  ["Zombies ESP"] = "僵尸ESP",
+  ["Hide UI keybind"] = "隐藏UI快捷键",
 }
