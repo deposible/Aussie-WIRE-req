@@ -365,5 +365,13 @@ return {
   ["Time Limit"] = "Time Limit",
   ["Miles v2"] = "Miles v2",
   ["Miles v3 [OP]"] = "Miles v3 [OP]",
-  ["No Hack Fail"] = "No Hack Fail"
+  ["No Hack Fail"] = "No Hack Fail",
+  ["Weapon"] = "Arma",
+  ["Self"] = "Mismo",
+  ["Kill Aura Distance"] = "Dist. Aura Matar",
+  ["No Fire Damage"] = "Sin Daño Fuego",
+  ["Farm Zombies"] = "Farmear Zombis",
+  ["Look At Zombies"] = "Mirar Zombis",
+  ["Auto Equip Melee"] = "Equipar Melee Auto",
+  ["Zombies ESP"] = "Zombis ESP",
 }
