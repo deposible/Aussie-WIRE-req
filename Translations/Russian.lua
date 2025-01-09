@@ -366,4 +366,12 @@ return {
   ["Miles v2"] = "Майлы v2",
   ["Miles v3 [OP]"] = "Майлы v3 [ОП]",
   ["No Hack Fail"] = "Без Ошибок Хак",
+  ["Weapon"] = "Оружие",
+  ["Self"] = "Себя",
+  ["Kill Aura Distance"] = "Дист. Ауры",
+  ["No Fire Damage"] = "Нет Урона Огн.",
+  ["Farm Zombies"] = "Фарм Зомби",
+  ["Look At Zombies"] = "Смотреть Зомби",
+  ["Auto Equip Melee"] = "Авто Экип Ближн.",
+  ["Zombies ESP"] = "Зомби ESP",
 }
