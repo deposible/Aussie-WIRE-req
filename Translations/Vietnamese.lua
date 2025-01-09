@@ -366,4 +366,12 @@ return {
   ["Miles v2"] = "Miles v2",
   ["Miles v3 [OP]"] = "Miles v3 [OP]",
   ["No Hack Fail"] = "Không hack lỗi",
+  ["Weapon"] = "Vũ khí",
+  ["Self"] = "Bản thân",
+  ["Kill Aura Distance"] = "Khoảng cách Aura",
+  ["No Fire Damage"] = "Không sát thương lửa",
+  ["Farm Zombies"] = "Farm Zombie",
+  ["Look At Zombies"] = "Nhìn Zombie",
+  ["Auto Equip Melee"] = "Tự trang bị cận chiến",
+  ["Zombies ESP"] = "ESP Zombie",
 }
