@@ -366,4 +366,12 @@ return {
   ["Miles v2"] = "Miles v2",
   ["Miles v3 [OP]"] = "Miles v3 [OP]",
   ["No Hack Fail"] = "No Hack Fail",
+  ["Weapon"] = "Weapon",
+  ["Self"] = "Self",
+  ["Kill Aura Distance"] = "Kill Aura Distance",
+  ["No Fire Damage"] = "No Fire Damage",
+  ["Farm Zombies"] = "Farm Zombies",
+  ["Look At Zombies"] = "Look At Zombies",
+  ["Auto Equip Melee"] = "Auto Equip Melee",
+  ["Zombies ESP"] = "Zombies ESP",
 }
