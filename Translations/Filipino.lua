@@ -366,4 +366,13 @@ return {
   ["Miles v2"] = "Miles v2",
   ["Miles v3 [OP]"] = "Miles v3 [OP]",
   ["No Hack Fail"] = "No Hack Fail",
+  ["Weapon"] = "Armas",
+  ["Self"] = "Sarili",
+  ["Kill Aura Distance"] = "Distansya ng Aura ng Pagpatay",
+  ["No Fire Damage"] = "Walang Pinsala mula sa Apoy",
+  ["Farm Zombies"] = "Mag-ani ng mga Zombie",
+  ["Look At Zombies"] = "Tumingin sa mga Zombie",
+  ["Auto Equip Melee"] = "Awtomatikong I-equip ang Melee",
+  ["Zombies ESP"] = "Zombies ESP",
+  ["Hide UI keybind"] = "Itago ang UI Shortcut",
 }
