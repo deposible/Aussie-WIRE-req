@@ -219,7 +219,7 @@ return {
   ["Spectate"] = "مراقبة",
   ["Role Notify"] = "إشعار الدور",
   ["Kill Murderer"] = "قتل القاتل",
-  ["Sheriff and Murderer"] = "شيريف و قاتل"
+  ["Sheriff and Murderer"] = "شيريف و قاتل",
   ["Send Level"] = "إرسال المستوى",
   ["Kill Specific Player"] = "قتل لاعب محدد",
   ["Trap Aura Range"] = "مدى هالة الفخ",
