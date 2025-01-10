@@ -152,7 +152,7 @@ return {
   ["Control Spread"] = "Điều khiển tán xạ",
   ["Change Gun Name"] = "Thay tên súng",
   ["Zombies"] = "Zombie",
-  ["Enhance Speed"] = "Tăng tốc độ"
+  ["Enhance Speed"] = "Tăng tốc độ",
   ["Speed Multiplier"] = "Tăng tốc độ",
   ["Aim Fov"] = "Tầm ngắm",
   ["No Recoil"] = "Không giật",
