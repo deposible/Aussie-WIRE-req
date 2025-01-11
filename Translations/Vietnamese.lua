@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "Sửa/Phá v2",
+  ["Bayonet Aura"] = "Hào Quang Lưỡi Lê",
+  ["Play Animation"] = "Phát Hoạt Hình",
+  ["Aura Distance"] = "Khoảng Cách Hào Quang",
   ["Build"] = "Xây dựng",
   ["Mod"] = "Sửa đổi",
   ["Zombie"] = "Zombie",
