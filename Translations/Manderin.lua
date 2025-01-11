@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "修复/破坏 v2",
+  ["Bayonet Aura"] = "刺刀光环",
+  ["Play Animation"] = "播放动画",
+  ["Aura Distance"] = "光环距离",
   ["Build"] = "建造",
   ["Mod"] = "修改",
   ["Zombie"] = "僵尸",
