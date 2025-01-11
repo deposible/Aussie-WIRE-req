@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "修理/破壊 v2",
+  ["Bayonet Aura"] = "銃剣オーラ",
+  ["Play Animation"] = "アニメ再生",
+  ["Aura Distance"] = "オーラ距離",
   ["Build"] = "ビルド",
   ["Mod"] = "モッド",
   ["Zombie"] = "ゾンビ",
