@@ -20,7 +20,7 @@ return {
   ["Fife Kill Aura", "Fife Aura"],
   ["Glitch", "Glitch"],
   ["Round Inf", "Infinite Rnds"],
-  ["Hide UI Keybind", "Hide UI Key"]
+  ["Hide UI Keybind", "Hide UI Key"],
   ["Races"] = "Races",
   ["Vehicle"] = "Vehicle",
   ["Miles"] = "Miles",
