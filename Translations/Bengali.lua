@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "মেরামত/ভাঙা v2",
+  ["Bayonet Aura"] = "বেয়নেট আভা",
+  ["Play Animation"] = "অ্যানিমেশন চালাও",
+  ["Aura Distance"] = "আভা দূরত্ব",
   ["Build"] = "নির্মাণ",
   ["Mod"] = "মডিফাই",
   ["Zombie"] = "জোম্বি",
