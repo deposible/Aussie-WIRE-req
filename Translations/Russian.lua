@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "Ремонт/Ломка v2",
+  ["Bayonet Aura"] = "Аура Штыка",
+  ["Play Animation"] = "Воспроизвести Анимацию",
+  ["Aura Distance"] = "Дистанция Ауры",
   ["Build"] = "Строить",
   ["Mod"] = "Модификация",
   ["Zombie"] = "Зомби",
