@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "Repair/Break v2",
+  ["Bayonet Aura"] = "Bayonet Aura",
+  ["Play Animation"] = "Play Animation",
+  ["Aura Distance"] = "Aura Distance",
   ["Build"] = "Build",
   ["Mod"] = "Modify",
   ["Zombie"] = "Zombie",
