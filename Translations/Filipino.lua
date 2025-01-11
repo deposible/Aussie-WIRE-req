@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "Ayos/Basag v2",
+  ["Bayonet Aura"] = "Bayoneta Aura",
+  ["Play Animation"] = "I-play Animasyon",
+  ["Aura Distance"] = "Layo ng Aura",
   ["Build"] = "Bumuo",
   ["Mod"] = "I-modify",
   ["Zombie"] = "Zombie",
