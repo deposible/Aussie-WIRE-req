@@ -1,4 +1,8 @@
 return {
+  ["Repair/Break v2"] = "إصلاح/كسر v2",
+  ["Bayonet Aura"] = "هالة الحربة",
+  ["Play Animation"] = "تشغيل الأنيميشن",
+  ["Aura Distance"] = "مسافة الهالة",
   ["Build"] = "بناء",
   ["Mod"] = "تعديل",
   ["Zombie"] = "زومبي",
